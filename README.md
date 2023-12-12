@@ -19,3 +19,7 @@ Type in the prompt you want to improve in the ```message``` variable and run the
 ```python
 python improved_prompts.py
 ```
+
+## Acknowledgments
+
+- The openai `gpt-3.5-turbo` model is used to modify user inputs.
