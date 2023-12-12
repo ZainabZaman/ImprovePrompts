@@ -9,11 +9,6 @@ Before running the script, ensure that you have the following:
 - An OpenAI API key (replace 'YOUR_OPENAI_API_KEY' in the script with your actual key)
 
 ### Installation
-Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
-   ```
 Install the required python packages 
 ```python
 pip install -r requirements.txt
