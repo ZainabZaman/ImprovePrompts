@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 ### Usage
 Open the script improved_prompts.py and replace 'YOUR_OPENAI_API_KEY' with your actual OpenAI API key.
-Run the script:
+Type in the prompt you want to improve in the ```message``` variable and run the script:
 ```python
 python improved_prompts.py
 ```
